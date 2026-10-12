@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CallScribe AI</string>
+    <string name="title_recordings">Recorded Calls</string>
+    <string name="btn_select_audio">📁 Select Audio File</string>
+    <string name="btn_transcribe">⚡ Transcribe &amp; Organize</string>
+    <string name="btn_share_notes">📤 Share Notes</string>
+    <string name="btn_copy_summary">📋 Copy Summary</string>
+    <string name="hint_api_key">Enter Gemini API Key</string>
+    <string name="empty_recordings">No calls recorded yet.\nMake or receive a call to auto-record, or select an audio file above.</string>
+</resources>
