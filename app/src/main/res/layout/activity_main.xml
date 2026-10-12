@@ -35,7 +35,6 @@
 
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnApiKeySettings"
-                    style="@style/Widget.Material3.Button.IconButton.FilledTonal"
                     android:layout_width="44dp"
                     android:layout_height="44dp"
                     android:text="⚙️"
@@ -80,7 +79,6 @@
 
                     <com.google.android.material.button.MaterialButton
                         android:id="@+id/btnSelectAudioFile"
-                        style="@style/Widget.Material3.Button.TonalButton"
                         android:layout_width="wrap_content"
                         android:layout_height="36dp"
                         android:text="📁 Select Audio"
@@ -345,7 +343,6 @@
 
                         <com.google.android.material.button.MaterialButton
                             android:id="@+id/btnShareNotes"
-                            style="@style/Widget.Material3.Button.FilledTonalButton"
                             android:layout_width="wrap_content"
                             android:layout_height="38dp"
                             android:layout_marginStart="8dp"

@@ -80,7 +80,6 @@
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnOrganizeThis"
-                style="@style/Widget.Material3.Button.TonalButton"
                 android:layout_width="wrap_content"
                 android:layout_height="36dp"
                 android:paddingHorizontal="14dp"
